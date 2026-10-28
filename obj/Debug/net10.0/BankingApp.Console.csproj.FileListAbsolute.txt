@@ -1,0 +1,15 @@
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\bin\Debug\net10.0\BankingApp.Console.exe
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\bin\Debug\net10.0\BankingApp.Console.deps.json
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\bin\Debug\net10.0\BankingApp.Console.runtimeconfig.json
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\bin\Debug\net10.0\BankingApp.Console.dll
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\bin\Debug\net10.0\BankingApp.Console.pdb
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\obj\Debug\net10.0\BankingApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\obj\Debug\net10.0\BankingApp.Console.AssemblyInfoInputs.cache
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\obj\Debug\net10.0\BankingApp.Console.AssemblyInfo.cs
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\obj\Debug\net10.0\BankingApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\obj\Debug\net10.0\BankingApp.Console.sourcelink.json
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\obj\Debug\net10.0\BankingApp.Console.dll
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\obj\Debug\net10.0\refint\BankingApp.Console.dll
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\obj\Debug\net10.0\BankingApp.Console.pdb
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\obj\Debug\net10.0\BankingApp.Console.genruntimeconfig.cache
+C:\Users\Flone\Documents\Kodakademy\dotnet\src\Banking.Console\obj\Debug\net10.0\ref\BankingApp.Console.dll
